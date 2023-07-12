@@ -1,6 +1,6 @@
 git init 
 git status 
-git add
-git commit 
+git add .
+git commit -m "text"
 git push repos branch
 git log
